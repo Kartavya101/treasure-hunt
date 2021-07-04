@@ -1,25 +1,25 @@
-const accessCode1 = "VARIABLE";
-const accessCode2 = "FUNCTION";
-const accessCode3 = "DATABASE";
+const accessCode1 = "PROGRAMMING";
+const accessCode2 = "OUTPUT";
+const accessCode3 = "KHUL JA SIM SIM";
 
 function clues() {
     
     fill("white")
     textSize(15)
-    text("R E V B A I L A", 100,50)
+    text("M R N P A G O G I M R", 100,50)
     fill("lightblue")
-    text("Hint: Always changing, not constant !!", 100,70)
+    text("Hint: This is what programmers do :P", 100,70)
 
     fill("white")
     textSize(15)
-    text("C U T N I F O N", 700,150)
+    text("T O U P T U", 700,150)
     fill("lightblue")
-    text("Hint: Performs a particular task !!", 700,170)
+    text("Hint: We check for this after writing our code ;)", 680,170)
 
     fill("white")
     textSize(15)
-    text("A T E D A S B A", 100,250)
+    text("P A S S W O R D!", 100,250)
     fill("lightblue")
-    text("Hint: Stores all information !!", 100,270)
+    text("Hint: Remember ali baba and the 40 thieves? :D", 100,270)
 
 }

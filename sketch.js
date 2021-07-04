@@ -16,6 +16,7 @@ function draw() {
   background(bg);
   clues();
   security.display();
+  text("pasword is: KHUL JA SIM SIM :) ", 80, 480);
   textSize(20);
   fill("white");
   text("Score: " + score, 450, 50);
