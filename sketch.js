@@ -26,7 +26,8 @@ function draw() {
     background(bg2)
     fill("black")
     textSize(40);
-    text("TREASURE UNLOCKED",250, 200);
+    text("TREASURE UNLOCKED!",120, 450);
+    text("What would you do with this much money? :O",120, 490);
   }
 
   drawSprites()
